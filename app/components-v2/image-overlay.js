@@ -30,8 +30,8 @@ const ImageOverlay = ({ image, active, setActive }) => {
                     <Image src={image} alt="Overlay Image" />
                 </div>
                 <div className={loading ? "loader-cover active" : "loader-cover"}>
-                    <span className="loader"></span>
-                    {/* <span className="loader1"></span> */}
+                    {/* <span className="loader"></span> */}
+                    <span className="loader1"></span>
                     {/* <span className="loader2"></span> */}
                     {/* <span className="loader3"></span> */}
                     {/* <span className="loader4"></span> */}
