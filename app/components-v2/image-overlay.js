@@ -35,9 +35,9 @@ const ImageOverlay = ({ image, active, setActive }) => {
                     {/* <span className="loader2"></span> */}
                     {/* <span className="loader3"></span> */}
                     {/* <span className="loader4"></span> */}
-                    <span className="loader5"></span>
+                    {/* <span className="loader5"></span> */}
                     {/* <span className="loader6"></span> */}
-                    {/* <span className="loader7"></span> */}
+                    <span className="loader7"></span>
                     {/* <span className="loader8"></span> */}
                     {/* <span className="loader9"></span> */}
                     <h4>Loading Image...</h4>
